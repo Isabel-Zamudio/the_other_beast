@@ -1,0 +1,59 @@
+
+.footer-main {
+    display: flex;
+    background: rgb(136,129,255);
+    background: linear-gradient(90deg, rgba(136,129,255,1) 27%, rgba(141,141,255,1) 54%, rgba(0,212,255,1) 100%);
+}
+
+.heading-2 {
+    font-size: 40px;
+    padding: 0;
+    margin: 50px 0 30px 50px ;
+    display: flex;
+
+}
+
+img.img-1 {
+    width: 500px;
+    margin-left: 50px;
+    display: flex;
+}
+
+h3.heading-3 {
+    display: flex;
+
+}
+
+.info-1 h3 {
+    font-size: 30px;
+}
+
+.info-1 {
+    padding: 30px;
+    margin: 7px 0 0 50px;
+
+}
+
+div.info-2 h3 {
+    font-size: 30px;
+    margin: 65px 0 10px 65px;
+}
+
+div.info-2 a {
+    list-style: none;
+}
+
+.info-2 ul {
+    list-style: none;
+    margin-left: 25px;
+}
+
+.info-2 a {
+    text-decoration: none;
+    color: black;
+}
+
+.info-2 p {
+    margin: 30px 50px 0 65px;
+
+}
