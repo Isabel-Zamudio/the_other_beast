@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-image: linear-gradient(to bottom right, #2ef1ff, #4cd7f0, #ffe6fd, rgb(255, 255, 255));  
+}
+ 
+.contenedor-uno{
+    display: flex;
+    justify-content: center;
+}
+.img-phone{
+    border-top-right-radius: 100px;
+    width: 500px;
+}
+.primer-titulo{
+        padding-top: 60px;
+        
+        
+}
+.primer-parrafo{
+    padding-top: 20px;
+      font-size: 20px;
+}
+.contenedor-productos{
+    display: flex;
+}
