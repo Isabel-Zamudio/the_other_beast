@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 img {
     width: 50px;
 }
@@ -21,6 +22,58 @@ a{
 }
 
 
+=======
+body {
+    background-image: linear-gradient(to bottom right, #2ef1ff, #4cd7f0, #ffe6fd, rgb(255, 255, 255));
+    font-family: monospace;
+}
+
+
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 15px;
+}
+div {
+    margin: 20px 20px 20px 20px;
+    display: flex;
+  }
+main{
+    
+    justify-content: center;
+}
+.mayor-div{
+    display: flex;
+    justify-content: center;
+}
+.text-div{
+    display: inline;
+}
+  img {
+    width: 600px;
+    height: 600px;
+    border-top-right-radius: 50px;
+      }
+
+      .flex-container {
+        display: flex;
+        justify-content: center;
+       
+      }
+      
+      .flex-container > div {
+        background-color: #f1f1f1;
+        width: 100px;
+        margin: 10px;
+        padding: auto;
+        line-height: 75px;
+        font-size: 30px;
+      }
+>>>>>>> 0cd9665eb557e99e06363f13fe7b4ee843abc4c9
 =======
 
 
