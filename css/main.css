@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+ 
 img {
     width: 50px;
 }
@@ -22,7 +21,7 @@ a{
 }
 
 
-=======
+ 
 body {
     background-image: linear-gradient(to bottom right, #2ef1ff, #4cd7f0, #ffe6fd, rgb(255, 255, 255));
     font-family: monospace;
@@ -73,8 +72,7 @@ main{
         line-height: 75px;
         font-size: 30px;
       }
->>>>>>> 0cd9665eb557e99e06363f13fe7b4ee843abc4c9
-=======
+ 
 
 
 .footer-main {
@@ -151,4 +149,41 @@ div.info-2 a {
     color: white;
 
 }
->>>>>>> 5b879be906baa578e9dde3707c88d4223b83df8b
+ 
+body{
+    margin: 0;
+    padding: 0;
+    font-family: monospace;
+    background-image: linear-gradient(to bottom right, #2ef1ff, #4cd7f0, #ffe6fd, rgb(255, 255, 255));  
+}
+ 
+.contenedor-uno{
+    display: flex;
+    justify-content: center;
+}
+.img-phone{
+    border-top-right-radius: 100px;
+    width: 500px;
+}
+.primer-titulo{
+        padding-top: 60px;
+        
+        
+}
+.primer-parrafo{
+    padding-top: 20px;
+      font-size: 20px;
+}
+.contenedor-productos{
+    display: flex;
+    justify-content:space-around;
+    padding:20px;
+}
+.contenedor-dos .compra {
+    background-color: white;
+    
+}
+.contenedor-dos img{
+    width: 300px;
+}
+ main
