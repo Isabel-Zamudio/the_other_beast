@@ -24,4 +24,13 @@ body{
 }
 .contenedor-productos{
     display: flex;
+    justify-content:space-around;
+    padding:20px;
+}
+.contenedor-dos .compra {
+    background-color: white;
+    
+}
+.contenedor-dos img{
+    width: 300px;
 }
